@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varuntalluri
-- 👀 I’m interested in MERN Stack applications
+- 👀 I’m interested in creating MERN Stack applications
 - 🌱 I’m currently learning ...Reactjs and Node.js
 
 
